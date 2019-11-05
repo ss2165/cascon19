@@ -1,0 +1,6 @@
+--index-url https://1JIKqt-KYXq0Lx7tm8lI4OeOtQV99H4RY:@pypi.fury.io/cqcl/
+--extra-index-url https://pypi.org/simple/
+
+pytket <= 0.3.3
+pytket-qiskit <=0.2.3
+pytket-projectq <=0.1.6
